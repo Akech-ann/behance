@@ -1,0 +1,307 @@
+.header{
+    display: flex;
+    gap: 30%;
+}
+.head1{
+    display: flex;
+    gap: 4em;
+}
+.head2{
+    display: flex;
+    gap: 4em;
+
+}
+
+.second{
+    width: 60%;
+}
+.shoe{
+    float: right;
+    background-color: transparent;
+}
+.shoe2{
+    width: 60%;
+    margin-left: 15%;
+    background-color: white;
+    margin-right: 20%;
+    
+}
+.shoe3{
+    width: 80%;
+    margin-left: 20%;
+    
+}
+.shoe4{
+    width: 60%;
+    margin-right: 30%;
+}
+.shoe5{
+    width: 90%;
+    margin-left: 20%;
+}
+.shoe6{
+    
+    width: 80%;
+    margin-left: 10%;
+}
+.shoe7{
+    width: 70%;
+}
+.shoe8{
+    width: 60%;
+}
+.sentence{
+    font-size: 72px;
+    margin-left: 15%;
+    
+}.sentence2{
+    margin-left: 15%;
+}
+.btn{
+    margin-left: 15%;
+    padding: 28px;
+    background-color: rgb(229, 34, 34);
+    color: white;
+}
+.fix{
+    color: red;
+}
+.collection{
+    text-align: center;
+    font-size: 40px;
+}
+.list2{
+    display: flex;
+    list-style: none;
+    gap: 4em;
+    font-size: 20px;
+}
+.images{
+    display: inline-block;
+    display: flex;
+    gap: 10em;
+}
+.shoe9{
+    width: 100%;
+}
+.shoe10{
+    width: 60%;
+    
+}
+.shoe11{
+    width: 60%;
+}
+.shoe13{
+    width: 60%;
+}
+.image2{
+    display: flex;
+}
+.head3{
+    display: flex;
+}
+.shoe12{
+    width: 60%;
+}
+.shoe14{
+    width: 60%;
+}
+.lorem{
+    display: flex;
+}
+.whiteman{
+    width: 6%;
+    border-radius: 50%;
+    margin-left: 45%;
+}
+.center{
+    margin-left: 50%;
+ 
+}
+.nadir{
+    margin-left: 60%;
+}
+.design{
+    margin-left: 60%; 
+}
+li{
+    list-style: none;
+}
+.footer{
+    display: flex;
+    gap: 5em;
+}
+.general{
+    background-color: red;
+    color: white;
+    margin-top: 10%;
+}
+.last{
+text-align: center;
+}
+.email{
+    background-color: pink;
+    padding: 15px;
+    text-align: center;
+    border-radius: 50px;
+}
+.border1{
+    /* border: solid 2px white; */
+    width: 20%;
+    height: 20%;
+    margin-left: 20%;
+    background-color: white;
+    
+}
+.border2{
+    /* border: solid 2px white; */
+    width: 20%;
+    height: 20%; 
+    margin-left: 30%;
+    /* background-color: beige;  */
+    
+}
+.border{
+    /* border: solid 2px beige; */
+    width: 15%;
+    height: 15%;  
+
+}
+.border3{
+    border: solid 2px white;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+}
+
+.border4{
+
+    border: solid 2px white;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+}
+.border5{
+    border: solid 2px white;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+}
+.border6{
+    border: solid 2px white;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+}
+.border7{
+    border: solid 2px white;
+    width: 70%;
+    height: 40%;
+    background-color: white;
+    margin-top: 1%;
+}
+.border8{
+    border: solid 2px white;
+    width: 80%;
+    height: 30%;
+    background-color: white;
+   margin-left: 20%;
+}
+.border9{
+    border: solid 2px white;
+    width: 80%;
+    height: 30%;
+    background-color:white;
+    margin-left: 20%;
+}
+.border10{
+    border: solid 2px white;
+    width: 80%;
+    height: 30%;
+    background-color: white;
+    margin-left: 20%;
+}
+.test{
+    font-size: 24px;
+    margin-top: 10%;
+    color: red;
+}
+.m{
+    display: flex;
+}
+.n{
+    display: flex;
+}
+.shoe32{
+    display: flex;
+}
+.shoe33{
+    display: flex; 
+}
+.shoe34{
+    display: flex; 
+}
+.whole{
+    background-color:  lightgrey;
+    font-family: sans-serif;
+}
+.w{
+   padding: 12px; 
+   margin-top: 5%;
+   margin-left: 40%;
+}
+.p{
+    color: red;
+}
+.r{
+    padding: 12px 13px;
+    border-radius: 1em;
+    background-color: brown;
+    color: white;
+}
+.y{
+    padding: 12px 13px;
+    border-radius: 1em;
+      
+}
+.ann1{
+    padding: 0.5em;
+    background-color: brown;
+    color: white;
+}
+.ann2{
+    padding: 0.5em;
+    background-color: brown;
+    color: white; 
+}
+.ann3{
+    padding: 0.5em;
+    background-color: brown;
+    color: white;
+}
+.men{
+    color: red;
+}
+.v{
+    color: red;
+}
+.s{
+    color: red;
+}
+.back{
+    background-image: url(/imagess/bg.png);
+}
+.now{
+    padding: 0.4em;
+    border-color: red;
+}
+.crat{
+    padding: 0.4em;   
+}
+.by{
+    padding: 0.4em;
+    border-color: red;  
+}
+.to{
+    padding: 0.4em;    
+}
